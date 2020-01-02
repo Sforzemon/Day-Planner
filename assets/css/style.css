@@ -9,3 +9,6 @@ body {
     background-position: center;
     background-size: cover;
 }
+.planner-body {
+    max-width: 80%;
+}

@@ -26,3 +26,15 @@ function checkTime(i) {
   startTime();
 
   //Set up my time slots
+  var startHour = 9;
+  var endHour = 5;
+  function createPlanner() {
+    for (j=9; j<17; j++){
+      var newRow = $("<row>");
+      var newTimeCol = $("<col-2>");
+      var newTextCol = $("<col-8>");
+      var newSaveCol = $("<col-2>");
+      var saveButton = $("<button>");
+      
+    }
+  }
